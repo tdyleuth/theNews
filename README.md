@@ -1,2 +1,3 @@
 # theNews
-The News is a search aggregator web application allowing users to search the latest news by entering keywords with optional category/language filtering.
+
+![the-news-sc](https://user-images.githubusercontent.com/40449202/91513858-37fa9c80-e89a-11ea-80dd-c4d8fee66724.png)
